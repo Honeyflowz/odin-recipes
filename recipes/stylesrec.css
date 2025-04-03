@@ -1,0 +1,13 @@
+* {padding-left: 10px; font-family: "Verdana", sans-serif; background-color:  lightblue; color: navy; max-width: 850px;}
+
+.title {font-size: 35px}
+
+.des-header {font-size: 30px;}
+
+.ing-header, .step-header {font-size: 25px}
+
+.ing-list, .step-list {font-size: 20px}
+
+#home {font-weight: 800; padding: 20px; text-align: center;}
+
+img {display: inline-block; border-radius: 20px;}
